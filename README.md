@@ -1,16 +1,21 @@
-# login_system
+# Login System - Flutter App
 
-A new Flutter project.
+A simple Flutter-based login system with form validation and navigation.
 
-## Getting Started
+## 🚀 Features
+- User login form
+- Input validation
+- Clean UI design
+- Multi-platform support (Android, Windows, Web)
 
-This project is a starting point for a Flutter application.
+## 🛠 Technologies Used
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 Project Structure
+- lib/ - Main application code
+- android/ - Android platform files
+- windows/ - Windows platform files
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Author
+Umer Ch
